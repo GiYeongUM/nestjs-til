@@ -15,7 +15,7 @@ import { Exclude } from 'class-transformer';
 @Entity({
   name: 'tbl_user',
 })
-export class Auth extends BaseEntity {
+export class User extends BaseEntity {
   @Column({ nullable: false })
   username: string;
 

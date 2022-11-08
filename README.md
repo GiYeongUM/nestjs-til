@@ -8,6 +8,8 @@ Nest.js Today i learn
 ## 📋 Learn lists
 
 - Entity setting (9/30)
+- socket.io (11/8)
+- file resource (11/8)
 
 ## 📋 Notice
 

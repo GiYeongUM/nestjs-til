@@ -10,6 +10,7 @@ Nest.js Today i learn
 - Entity setting (9/30)
 - socket.io (11/8)
 - file resource (11/8)
+- ffmpeg video convert (11/11)
 
 ## 📋 Notice
 

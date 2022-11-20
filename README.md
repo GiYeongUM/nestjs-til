@@ -8,10 +8,12 @@ Nest.js Today i learn
 ## 📋 Learn lists
 
 - Entity setting (9/30)
+- Maria DB (10/1)
 - socket.io (11/8)
 - file resource (11/8)
 - ffmpeg video convert (11/11)
 - JWT (11/12)
+- 
 
 ## 📋 Notice
 
